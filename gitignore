@@ -1,0 +1,15 @@
+# KiCad auto-generated files
+*.kicad_prl
+fp-info-cache
+*-backups/
+_autosave-*
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gerber output (generate fresh from KiCad before fab)
+gerbers/
